@@ -22,4 +22,7 @@ print("    *********    "*2)
 print("Mi\nnombre\nes\nBond.", end=" ")
 print("James Bond.")
 print(0x123)
+print('I\'m Monty python')
+print(True > False)
+print(True < False)
 
