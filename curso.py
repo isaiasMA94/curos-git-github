@@ -25,4 +25,7 @@ print(0x123)
 print('I\'m Monty python')
 print(True > False)
 print(True < False)
-
+print("\"I'm\"\n\"\"learning\"\"\n\"\"\"Python\"\"\"")
+print("\"estoy\"\n\"\"aprendiendo\"\"\n\"\"\"python\"\"\"")
+#operadores
+print(2+2)
